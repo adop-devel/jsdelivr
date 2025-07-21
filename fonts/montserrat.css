@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+@font-face {
+  font-weight: 100;
+  font-family: 'Montserrat';
+  src: url('./Montserrat-Thin.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 200;
+  font-family: 'Montserrat';
+  src: url('./Montserrat-ExtraLight.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 300;
+  font-family: 'Montserrat';
+  src: url('./Montserrat-Light.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: 'Montserrat';
+  src: url('./Montserrat-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: 'Montserrat';
+  src: url('./Montserrat-Medium.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 600;
+  font-family: 'Montserrat';
+  src: url('./Montserrat-SemiBold.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 700;
+  font-family: 'Montserrat';
+  src: url('./Montserrat-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 800;
+  font-family: 'Montserrat';
+  src: url('./Montserrat-ExtraBold.woff') format('woff');
+}
+
+@font-face {
+  font-weight: 900;
+  font-family: 'Montserrat';
+  src: url('./Montserrat-Black.woff') format('woff');
+}
